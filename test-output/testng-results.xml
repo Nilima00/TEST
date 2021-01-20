@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18078" started-at="2021-01-19T18:13:06 CST" finished-at="2021-01-19T18:13:25 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18078" started-at="2021-01-19T18:13:06 CST" finished-at="2021-01-19T18:13:25 CST">
+      <class name="firstTestNg.Try">
+        <test-method status="PASS" signature="filereader1()[pri:0, instance:firstTestNg.Try@2a17b7b6]" name="filereader1" is-config="true" duration-ms="7" started-at="2021-01-19T18:13:06 CST" finished-at="2021-01-19T18:13:06 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filereader1 -->
+        <test-method status="PASS" signature="init()[pri:0, instance:firstTestNg.Try@2a17b7b6]" name="init" duration-ms="18039" started-at="2021-01-19T18:13:06 CST" finished-at="2021-01-19T18:13:25 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+      </class> <!-- firstTestNg.Try -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
